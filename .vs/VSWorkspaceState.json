@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows"
   ],
-  "SelectedNode": "\\C:\\Users\\AllDomain\\Source\\Repos\\aleph",
+  "SelectedNode": "\\README.rst",
   "PreviewInSolutionExplorer": false
 }
